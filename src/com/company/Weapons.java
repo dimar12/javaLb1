@@ -15,7 +15,7 @@ public class Weapons {
         return price;
     }
     public String description() {
-        return "Модель: " + name + ", цена: " + price ;
+        return "Модель: " + name + ", цена: " + price;
     }
     public void printDescription()
     {
